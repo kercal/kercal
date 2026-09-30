@@ -1,8 +1,5 @@
 <div align="center">
-
-  <img src="https://github-contribution-stats.vercel.app/api?username=kercal" height="200" alt="Contribution stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kercal&theme=dark&hide_border=true" height="200" alt="Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kercal&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 <div align="center">
